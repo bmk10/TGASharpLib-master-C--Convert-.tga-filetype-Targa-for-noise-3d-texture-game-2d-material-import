@@ -1,4 +1,7 @@
-# TGASharpLib
+# TGASharpLib + Procedural seamless noise texture generator + intmain.xyz Georgiy Chipunov code..
+https://www.codeproject.com/Articles/838511/Procedural-seamless-noise-texture-generator
+For Crimewars and lumberyard projects.
+
 
 ## Description
 1. TGASharpLib is a FREE, OpenSource .NET library for reading and writing TGA files.
