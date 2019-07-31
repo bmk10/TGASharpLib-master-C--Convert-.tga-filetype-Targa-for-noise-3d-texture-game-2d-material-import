@@ -437,3 +437,6 @@ break;
 </table></td>
 </tr>
 </table></td>
+
+
+note to self, Get MY MODDED code off laptop that does it for the game thing, and add ffmpeg command generator to make gifs out of this TOO
